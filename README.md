@@ -74,23 +74,23 @@ cd AI_NEXUS_HUB
 ---
 
 ## 🏆 **Tech Stack**
+-Frontend / UI: Streamlit
 
-> Frontend / UI: Streamlit
+-Backend: Python
 
->Backend: Python
+-AI Frameworks: LangChain, Groq API
 
->AI Frameworks: LangChain, Groq API
+-Vector Search: FAISS / LangChain embeddings
 
->Vector Search: FAISS / LangChain embeddings
+-Deployment: Render
 
->Deployment: Render
+----
 
+## 💡 **Example Usage**
 
-##💡 **Example Usage**
+-Select a tool from the sidebar
 
->Select a tool from the sidebar
+-Enter your Groq API key
 
->Enter your Groq API key
-
->Start chatting, searching, or summarizing instantly!
+-Start chatting, searching, or summarizing instantly!
 
